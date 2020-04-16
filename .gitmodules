@@ -7,3 +7,6 @@
 [submodule "PaymentService"]
 	path = PaymentService
 	url = https://github.com/kaushi-web/healthcareSystem_Payment.git
+[submodule "AppointmentsService"]
+	path = AppointmentsService
+	url = https://github.com/NimshiAshera/HealthcareSystem-Appointment.git
