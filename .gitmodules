@@ -1,3 +1,6 @@
 [submodule "DoctorService"]
 	path = DoctorService
 	url = https://github.com/ravinWijekoon/PAF-Assignment-DoctorService.git
+[submodule "UserService"]
+	path = UserService
+	url = https://github.com/MahelaWije/PAF-User
