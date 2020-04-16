@@ -1,0 +1,3 @@
+[submodule "DoctorService"]
+	path = DoctorService
+	url = https://github.com/ravinWijekoon/PAF-Assignment-DoctorService.git
