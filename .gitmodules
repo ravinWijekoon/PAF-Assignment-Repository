@@ -10,3 +10,9 @@
 [submodule "AppointmentsService"]
 	path = AppointmentsService
 	url = https://github.com/NimshiAshera/HealthcareSystem-Appointment.git
+[submodule "HospitalServiceNew"]
+	path = HospitalServiceNew
+	url = https://github.com/milochanaRathnayake/HealthcareSystem_Hospital.git
+[submodule "HospitalServices"]
+	path = HospitalServices
+	url = https://github.com/milochanaRathnayake/HealthcareSystem_Hospital.git
